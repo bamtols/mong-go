@@ -2,7 +2,7 @@ package cores
 
 import (
 	"fmt"
-	"github.com/flowd-cores/fn-go/independent/lbGqlgen/scalars"
+	"github.com/bamtols/mong-go/extends/scalars"
 	"go.mongodb.org/mongo-driver/bson/bsoncodec"
 	"go.mongodb.org/mongo-driver/bson/bsonrw"
 	"go.mongodb.org/mongo-driver/bson/primitive"

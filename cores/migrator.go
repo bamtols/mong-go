@@ -3,9 +3,9 @@ package cores
 import (
 	"context"
 	"fmt"
-	"github.com/flowd-cores/fn-go/independent/fnReflect"
-	"github.com/flowd-cores/fn-go/independent/fnString"
-	"github.com/flowd-cores/fn-go/independent/lbGqlgen/scalars"
+	"github.com/bamtols/fn-go/fn/fnReflect"
+	"github.com/bamtols/fn-go/fn/fnString"
+	"github.com/bamtols/mong-go/extends/scalars"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"

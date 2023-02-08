@@ -2,8 +2,8 @@ package cores
 
 import (
 	"context"
-	"github.com/flowd-cores/fn-go/independent/fnParams"
-	"github.com/flowd-cores/fn-go/independent/lbGqlgen/scalars"
+	"github.com/bamtols/fn-go/fn/fnParams"
+	"github.com/bamtols/mong-go/extends/scalars"
 	"go.mongodb.org/mongo-driver/mongo"
 	"time"
 )
